@@ -1,0 +1,5 @@
+create background image
+create background sound
+background music played with a loop
+one ship was created and positioned
+ship moved
